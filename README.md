@@ -60,16 +60,7 @@ App limitations:
  2. The app GUI needs to be imporved 
  
   
- contact me for any question or feedback using the following contacts. 
- 
- Email: ak_aldhafer@hotmail.com
- github: akaldhafer
- linkedin: https://www.linkedin.com/in/abdulmalek-aldhafer-206485173/
- instagram: https://www.instagram.com/ak_aldhafer
-   
- follow our society as well for any project request or help. 
- https://www.instagram.com/asocietytech  
-    
+
     
     
     
